@@ -7,7 +7,7 @@ on:
       tfpath:
         description: 'TF File Path'     
         required: false
-        default: 'simple-ec2/examples/complete/'
+        default: 'simpleec2/examples/complete/'
   push:
     branches: [ main ]
   pull_request:
